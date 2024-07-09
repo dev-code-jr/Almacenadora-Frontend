@@ -1,0 +1,30 @@
+.formulario-container{
+    background-color: #75a7d8;
+    margin-top: 1%;
+    width: 100rem;
+}
+
+.form-formulario-titles{
+    font-size: 20px;
+    padding-left: 50px;
+}
+
+.form-button-cancelar{
+    height: auto;
+    width: auto;
+    font-size: 20px;
+    background-color: red;
+    cursor: pointer;
+    border-radius: 10px;
+    padding-left: 10px;
+  }
+
+  .form-button-Agregar{
+    height: auto;
+    width: auto;
+    font-size: 20px;
+    background-color: rgb(38, 64, 169);
+    cursor: pointer;
+    border-radius: 10px;
+    padding-left: 10px;
+  }
